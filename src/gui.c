@@ -613,6 +613,7 @@ void guiShowUIConfig(void)
         , "EDTV 640x448p @60Hz 24bit"
         , "EDTV 640x512p @50Hz 24bit"
         , "VGA 640x480p @60Hz 24bit"
+        , "SDTV 640x240p @60Hz 24bit"
         , "PAL 704x576i @50Hz 24bit (HIRES)"
         , "NTSC 704x480i @60Hz 24bit (HIRES)"
         , "EDTV 704x480p @60Hz 24bit (HIRES)"

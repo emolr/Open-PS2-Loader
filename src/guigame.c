@@ -376,6 +376,7 @@ void guiGameShowGSConfig(void)
         "PAL",
         "PAL Non Interlaced",
         "PAL @60Hz",
+        "SDTV NTSC 240p @60Hz",
         "PAL @60Hz Non Interlaced",
         "PS1 NTSC (HDTV 480p @60Hz)",
         "PS1 PAL (HDTV 576p @50Hz)",
